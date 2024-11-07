@@ -1,0 +1,8 @@
+vtta-tokenizer
+pf2e-dailies
+    lib-wrapper
+dice-calculator
+token-action-hud-pf2e
+    token-action-hud-core
+        socketlib
+pf2e-chances
