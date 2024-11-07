@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "0ca25bad481718d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a56104f70a6770b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3ea1c229acfbb87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player/Veshrael (Ernesto).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "443280f240686a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Non-Player/Neutral/Ailbhe Dubthach.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cf453a0a19a9c683",
+        "type": "split",
+        "children": [
+          {
+            "id": "2b3a997c5fa61b37",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c487ed7079aa99fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World/Timeline/1. The Lost Era (1000 - 500 BBM).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "5e78f5e7fc95dbb8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "808a0acaeaf6de7c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World/Timeline/2. Magic Era (500 - 1 BBM).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "c0dcb7b82434da20",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4b1f20f93ca29c8d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World/Timeline/3. Modern Era (1+ ABM).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d05ee2806e91cab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f30932561933f1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5edd2093aa227720",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edfecb4c5ac29ee4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cold",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83809460d10f67a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca21355b0bf64b35",
+    "type": "split",
+    "children": [
+      {
+        "id": "095d0f9fe1ba2620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bd5cc60fae75cb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Player/Veshrael (Ernesto).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b4b18edeafcaa38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Player/Veshrael (Ernesto).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49d6570cfe7ce379",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41ef2d2d34d1937c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f0c513a3edd2294",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Player/Veshrael (Ernesto).md"
+              }
+            }
+          },
+          {
+            "id": "9e5edadd05e2429c",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "1a2b6ee10e32d1e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85b869dd99a208cb",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
+    }
+  },
+  "active": "a3ea1c229acfbb87",
+  "lastOpenFiles": [
+    "Characters/Player/Vengspi (Mike).md",
+    "Characters/Player/Veshrael (Ernesto).md",
+    "Characters/Non-Player/Positive/Veshreal's Sibling.md",
+    "Characters/Non-Player/Neutral/Ailbhe Dubthach.md",
+    "Characters/Non-Player/Negative/Adam.md",
+    "Characters/Non-Player/Negative/Austere Tan.md",
+    "World/Timeline/3. Modern Era (1+ ABM).md",
+    "World/Timeline/2. Magic Era (500 - 1 BBM).md",
+    "World/Timeline/1. The Lost Era (1000 - 500 BBM).md",
+    "Session/Session 0.md",
+    "World/Setting.md",
+    "Characters/Player/Pathfinder (Antoine).md",
+    "Rules/Guns.md",
+    "Characters/Player/Vengspi (Mike)/Mechanics.md",
+    "Characters/Player/Vengspi (Mike)/Backstory.md",
+    "Characters/Player/Pathfinder (Antoine)/Backstory.md",
+    "Characters/Player/Vengspi (Mike)/Vengspi.md",
+    "Characters/Player/Pathfinder (Antoine)",
+    "Characters/Player/Vengspi (Mike)",
+    "Characters/Player/Veshrael (Ernesto)",
+    "World/Timeline/Untitled",
+    "World/Timeline",
+    "World/Organizations/Monasteries.md",
+    "World/Organizations/Magical Orders.md",
+    "World/Cities/Copper/Copper.md",
+    "World/Cities/Amber/Amber.md",
+    "World/Map.png",
+    "Untitled.md",
+    "Characters/Non-Player/Positive",
+    "Characters/Non-Player/Neutral",
+    "Characters/Non-Player/Negative",
+    "World/Cities/Lapis/Lapis.md",
+    "World/Types of Areas/The Wilds.md",
+    "World/Types of Areas/The Underdark.md",
+    "World/Types of Areas/The In-Between.md",
+    "Weapons.ods~RF2d4ee27.TMP",
+    "lu16264qeo0x.tmp",
+    "Untitled.canvas"
+  ]
+}
