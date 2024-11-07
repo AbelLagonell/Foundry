@@ -1,0 +1,25 @@
+{
+  "title": "Salvation",
+  "id": "world.salvation.2024-11-03.1730670916349",
+  "system": "pf2e",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "version": "0",
+  "size": 183750,
+  "note": "Before the 6.6 Update",
+  "snapshotId": null,
+  "originalSize": 273494,
+  "createdAt": 1730670916352,
+  "packageId": "salvation",
+  "type": "world"
+}
