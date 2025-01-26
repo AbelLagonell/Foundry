@@ -1,24 +1,5 @@
-2024/11/17-17:15:23.177 4abc Recovering log #162
-2024/11/17-17:15:23.177 4abc Level-0 table #164: started
-2024/11/17-17:15:23.187 4abc Level-0 table #164: 2528 bytes OK
-2024/11/17-17:15:23.197 4abc Delete type=0 #162
-2024/11/17-17:15:23.197 4abc Delete type=3 #161
-2024/11/17-21:06:22.006 404c Level-0 table #167: started
-2024/11/17-21:06:22.014 404c Level-0 table #167: 2597 bytes OK
-2024/11/17-21:06:22.019 404c Delete type=0 #165
-2024/11/17-21:06:22.033 404c Manual compaction at level-0 from '!settings!0df3yLc8j3pq7STc' @ 72057594037927935 : 1 .. '!settings!wQ4ckzwJBAaGdHbX' @ 0 : 0; will stop at '!settings!gPNQ34Wzvo36JS0e' @ 172 : 1
-2024/11/17-21:06:22.033 404c Compacting 2@0 + 0@1 files
-2024/11/17-21:06:22.037 404c Generated table #168@0: 3 keys, 2597 bytes
-2024/11/17-21:06:22.037 404c Compacted 2@0 + 0@1 files => 2597 bytes
-2024/11/17-21:06:22.042 404c compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/17-21:06:22.042 404c Delete type=2 #164
-2024/11/17-21:06:22.042 404c Delete type=2 #167
-2024/11/17-21:06:22.066 404c Manual compaction at level-0 from '!settings!gPNQ34Wzvo36JS0e' @ 172 : 1 .. '!settings!wQ4ckzwJBAaGdHbX' @ 0 : 0; will stop at (end)
-2024/11/17-21:06:22.081 404c Manual compaction at level-1 from '!settings!0df3yLc8j3pq7STc' @ 72057594037927935 : 1 .. '!settings!wQ4ckzwJBAaGdHbX' @ 0 : 0; will stop at '!settings!gPNQ34Wzvo36JS0e' @ 174 : 1
-2024/11/17-21:06:22.081 404c Compacting 1@1 + 1@2 files
-2024/11/17-21:06:22.091 404c Generated table #169@1: 45 keys, 13544 bytes
-2024/11/17-21:06:22.091 404c Compacted 1@1 + 1@2 files => 13544 bytes
-2024/11/17-21:06:22.100 404c compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/11/17-21:06:22.100 404c Delete type=2 #160
-2024/11/17-21:06:22.100 404c Delete type=2 #168
-2024/11/17-21:06:22.122 404c Manual compaction at level-1 from '!settings!gPNQ34Wzvo36JS0e' @ 174 : 1 .. '!settings!wQ4ckzwJBAaGdHbX' @ 0 : 0; will stop at (end)
+2025/01/12-17:35:16.135 71ec Recovering log #171
+2025/01/12-17:35:16.136 71ec Level-0 table #173: started
+2025/01/12-17:35:16.145 71ec Level-0 table #173: 2527 bytes OK
+2025/01/12-17:35:16.157 71ec Delete type=0 #171
+2025/01/12-17:35:16.157 71ec Delete type=3 #170

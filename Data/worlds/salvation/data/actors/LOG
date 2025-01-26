@@ -1,24 +1,3 @@
-2024/11/17-17:15:22.863 a664 Recovering log #153
-2024/11/17-17:15:22.864 a664 Level-0 table #155: started
-2024/11/17-17:15:22.871 a664 Level-0 table #155: 204958 bytes OK
-2024/11/17-17:15:22.882 a664 Delete type=0 #153
-2024/11/17-17:15:22.882 a664 Delete type=3 #152
-2024/11/17-21:06:21.874 404c Level-0 table #158: started
-2024/11/17-21:06:21.880 404c Level-0 table #158: 135531 bytes OK
-2024/11/17-21:06:21.887 404c Delete type=0 #156
-2024/11/17-21:06:21.887 404c Manual compaction at level-0 from '!actors!DNW6YVYbBWfbd1t0' @ 72057594037927935 : 1 .. '!actors.items!xtQcNCbUkleSl8fh.y8mNGaofIkeVhET7' @ 0 : 0; will stop at '!actors.items!xtQcNCbUkleSl8fh.y8mNGaofIkeVhET7' @ 3446 : 1
-2024/11/17-21:06:21.887 404c Compacting 2@0 + 0@1 files
-2024/11/17-21:06:21.903 404c Generated table #159@0: 181 keys, 205695 bytes
-2024/11/17-21:06:21.903 404c Compacted 2@0 + 0@1 files => 205695 bytes
-2024/11/17-21:06:21.905 404c compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/17-21:06:21.905 404c Delete type=2 #155
-2024/11/17-21:06:21.906 404c Delete type=2 #158
-2024/11/17-21:06:21.930 404c Manual compaction at level-0 from '!actors.items!xtQcNCbUkleSl8fh.y8mNGaofIkeVhET7' @ 3446 : 1 .. '!actors.items!xtQcNCbUkleSl8fh.y8mNGaofIkeVhET7' @ 0 : 0; will stop at (end)
-2024/11/17-21:06:21.944 404c Manual compaction at level-1 from '!actors!DNW6YVYbBWfbd1t0' @ 72057594037927935 : 1 .. '!actors.items!xtQcNCbUkleSl8fh.y8mNGaofIkeVhET7' @ 0 : 0; will stop at '!actors.items!xtQcNCbUkleSl8fh.y8mNGaofIkeVhET7' @ 3446 : 1
-2024/11/17-21:06:21.944 404c Compacting 1@1 + 1@2 files
-2024/11/17-21:06:21.952 404c Generated table #160@1: 180 keys, 205656 bytes
-2024/11/17-21:06:21.952 404c Compacted 1@1 + 1@2 files => 205656 bytes
-2024/11/17-21:06:21.954 404c compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/11/17-21:06:21.954 404c Delete type=2 #147
-2024/11/17-21:06:21.954 404c Delete type=2 #159
-2024/11/17-21:06:21.955 404c Manual compaction at level-1 from '!actors.items!xtQcNCbUkleSl8fh.y8mNGaofIkeVhET7' @ 3446 : 1 .. '!actors.items!xtQcNCbUkleSl8fh.y8mNGaofIkeVhET7' @ 0 : 0; will stop at (end)
+2025/01/12-17:35:15.847 82dc Recovering log #162
+2025/01/12-17:35:15.860 82dc Delete type=0 #162
+2025/01/12-17:35:15.860 82dc Delete type=3 #161

@@ -1,23 +1,3 @@
-2024/11/17-17:15:23.139 2370 Recovering log #140
-2024/11/17-17:15:23.139 2370 Level-0 table #142: started
-2024/11/17-17:15:23.149 2370 Level-0 table #142: 1550 bytes OK
-2024/11/17-17:15:23.159 2370 Delete type=0 #140
-2024/11/17-17:15:23.159 2370 Delete type=3 #139
-2024/11/17-21:06:22.002 404c Level-0 table #145: started
-2024/11/17-21:06:22.002 404c Level-0 table #145: 0 bytes OK
-2024/11/17-21:06:22.006 404c Delete type=0 #143
-2024/11/17-21:06:22.019 404c Manual compaction at level-0 from '!scenes!acb77OFWoPKSRM65' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!acb77OFWoPKSRM65.rI04bqLGrvQKsABg.4rw6v0mcp0eMwayF' @ 0 : 0; will stop at '!scenes!acb77OFWoPKSRM65' @ 271 : 1
-2024/11/17-21:06:22.019 404c Compacting 1@0 + 0@1 files
-2024/11/17-21:06:22.028 404c Generated table #146@0: 1 keys, 1550 bytes
-2024/11/17-21:06:22.028 404c Compacted 1@0 + 0@1 files => 1550 bytes
-2024/11/17-21:06:22.033 404c compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/17-21:06:22.033 404c Delete type=2 #142
-2024/11/17-21:06:22.066 404c Manual compaction at level-0 from '!scenes!acb77OFWoPKSRM65' @ 271 : 1 .. '!scenes.tokens.delta!acb77OFWoPKSRM65.rI04bqLGrvQKsABg.4rw6v0mcp0eMwayF' @ 0 : 0; will stop at (end)
-2024/11/17-21:06:22.066 404c Manual compaction at level-1 from '!scenes!acb77OFWoPKSRM65' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!acb77OFWoPKSRM65.rI04bqLGrvQKsABg.4rw6v0mcp0eMwayF' @ 0 : 0; will stop at '!scenes!acb77OFWoPKSRM65' @ 271 : 1
-2024/11/17-21:06:22.066 404c Compacting 1@1 + 1@2 files
-2024/11/17-21:06:22.076 404c Generated table #147@1: 19 keys, 5896 bytes
-2024/11/17-21:06:22.076 404c Compacted 1@1 + 1@2 files => 5896 bytes
-2024/11/17-21:06:22.081 404c compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/11/17-21:06:22.081 404c Delete type=2 #134
-2024/11/17-21:06:22.081 404c Delete type=2 #146
-2024/11/17-21:06:22.122 404c Manual compaction at level-1 from '!scenes!acb77OFWoPKSRM65' @ 271 : 1 .. '!scenes.tokens.delta!acb77OFWoPKSRM65.rI04bqLGrvQKsABg.4rw6v0mcp0eMwayF' @ 0 : 0; will stop at (end)
+2025/01/12-17:35:16.104 82dc Recovering log #149
+2025/01/12-17:35:16.115 82dc Delete type=0 #149
+2025/01/12-17:35:16.116 82dc Delete type=3 #148
