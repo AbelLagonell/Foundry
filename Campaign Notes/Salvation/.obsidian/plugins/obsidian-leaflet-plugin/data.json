@@ -1,0 +1,178 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Salvation_Map",
+      "lastAccessed": 1710943202963,
+      "markers": [
+        {
+          "id": "ID_38e959c809c8",
+          "type": "default",
+          "loc": [
+            -0.005955855456771458,
+            0.015537014235055976
+          ],
+          "link": "Emerald",
+          "layer": "%5B%5BDrawing.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.38716112734168384,
+            0.2596959036693109
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d95ae82a99bb",
+          "type": "default",
+          "loc": [
+            -0.005533038272510169,
+            0.023029712375928674
+          ],
+          "link": "Amber",
+          "layer": "%5B%5BDrawing.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9f98b18ba59",
+          "type": "default",
+          "loc": [
+            -0.01261101142403567,
+            0.025619214748438004
+          ],
+          "link": "Amethyst",
+          "layer": "%5B%5BDrawing.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_193ad808a888",
+          "type": "default",
+          "loc": [
+            -0.015804731016797177,
+            0.018627558342662814
+          ],
+          "link": "Ruby",
+          "layer": "%5B%5BDrawing.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0918caf94858",
+          "type": "default",
+          "loc": [
+            -0.011739077422042294,
+            0.013335937218423048
+          ],
+          "link": "Lapis",
+          "layer": "%5B%5BDrawing.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.33231330096827866,
+            0.5118643898409606
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bfa99fb1ba9",
+          "type": "default",
+          "loc": [
+            -0.010064667424401496,
+            0.019102300444289524
+          ],
+          "link": "Copper",
+          "layer": "%5B%5BDrawing.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58dbf93bebe9",
+          "type": "default",
+          "loc": [
+            -0.0149327970148038,
+            0.0216223448104529
+          ],
+          "link": "The Wilds",
+          "layer": "%5B%5BDrawing.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.53879923555051,
+            0.6511216135476925
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.2",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

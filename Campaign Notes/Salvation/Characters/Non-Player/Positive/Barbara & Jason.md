@@ -1,0 +1,2 @@
+worked with [[Bethany (Before Madness) | Bethany]] and [[Vengspi (Mike) | Benjamin]] before they left.
+Doesn't really know why they left. Were working on Transmutation, the exact thing that Bethany stole to bring back benjamin.

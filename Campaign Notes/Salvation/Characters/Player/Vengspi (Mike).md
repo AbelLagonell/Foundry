@@ -7,4 +7,4 @@ Working for [[Adam]] in his corporation he was just a regular janitor not trying
 This comes in the form of spectral form that he can only see.
 Baby Pheonix is [[Ailbhe Dubthach|Ailbhe]] keeping track of Vengspi as he goes along in his journey.
 
-# BETHANY
+# BETHANY & Benjamin Sprite
