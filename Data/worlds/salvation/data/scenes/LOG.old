@@ -1,14 +1,3 @@
-2025/01/26-16:50:56.793 9f18 Recovering log #155
-2025/01/26-16:50:56.804 9f18 Delete type=0 #155
-2025/01/26-16:50:56.804 9f18 Delete type=3 #153
-2025/01/26-17:39:45.507 a410 Level-0 table #161: started
-2025/01/26-17:39:45.519 a410 Level-0 table #161: 219396 bytes OK
-2025/01/26-17:39:45.525 a410 Delete type=0 #159
-2025/01/26-17:39:45.570 a410 Manual compaction at level-0 from '!scenes!QPiX5wnsCqTbEuPV' @ 72057594037927935 : 1 .. '!scenes.walls!l23uGoWQyNiWKA1d.yXJnTXzfcTrHaGiT' @ 0 : 0; will stop at '!scenes.walls!l23uGoWQyNiWKA1d.yXJnTXzfcTrHaGiT' @ 300 : 1
-2025/01/26-17:39:45.570 a410 Compacting 1@0 + 1@1 files
-2025/01/26-17:39:45.575 a410 Generated table #162@0: 154 keys, 20946 bytes
-2025/01/26-17:39:45.575 a410 Compacted 1@0 + 1@1 files => 20946 bytes
-2025/01/26-17:39:45.587 a410 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/01/26-17:39:45.587 a410 Delete type=2 #157
-2025/01/26-17:39:45.588 a410 Delete type=2 #161
-2025/01/26-17:39:45.605 a410 Manual compaction at level-0 from '!scenes.walls!l23uGoWQyNiWKA1d.yXJnTXzfcTrHaGiT' @ 300 : 1 .. '!scenes.walls!l23uGoWQyNiWKA1d.yXJnTXzfcTrHaGiT' @ 0 : 0; will stop at (end)
+2025/01/26-17:40:13.758 42b4 Recovering log #160
+2025/01/26-17:40:13.769 42b4 Delete type=0 #160
+2025/01/26-17:40:13.769 42b4 Delete type=3 #158
