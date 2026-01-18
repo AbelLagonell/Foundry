@@ -1,17 +1,17 @@
-2025/02/09-13:50:56.917 4b38 Recovering log #159
-2025/02/09-13:50:56.917 4b38 Level-0 table #161: started
-2025/02/09-13:50:56.927 4b38 Level-0 table #161: 1551 bytes OK
-2025/02/09-13:50:56.939 4b38 Delete type=0 #159
-2025/02/09-13:50:56.939 4b38 Delete type=3 #157
-2025/02/09-14:30:02.310 b208 Level-0 table #164: started
-2025/02/09-14:30:02.310 b208 Level-0 table #164: 0 bytes OK
-2025/02/09-14:30:02.318 b208 Delete type=0 #162
-2025/02/09-14:30:02.326 b208 Manual compaction at level-0 from '!users!EZ3vOySYOOpikXNq' @ 72057594037927935 : 1 .. '!users!oU4krTCt5nI9btGr' @ 0 : 0; will stop at '!users!eLnUQaLDaPC486Nf' @ 104 : 1
-2025/02/09-14:30:02.326 b208 Compacting 2@0 + 1@1 files
-2025/02/09-14:30:02.341 b208 Generated table #165@0: 5 keys, 2474 bytes
-2025/02/09-14:30:02.341 b208 Compacted 2@0 + 1@1 files => 2474 bytes
-2025/02/09-14:30:02.351 b208 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/09-14:30:02.351 b208 Delete type=2 #154
-2025/02/09-14:30:02.351 b208 Delete type=2 #158
-2025/02/09-14:30:02.351 b208 Delete type=2 #161
-2025/02/09-14:30:02.373 b208 Manual compaction at level-0 from '!users!eLnUQaLDaPC486Nf' @ 104 : 1 .. '!users!oU4krTCt5nI9btGr' @ 0 : 0; will stop at (end)
+2025/09/21-10:07:38.031 3afc Recovering log #170
+2025/09/21-10:07:38.031 3afc Level-0 table #172: started
+2025/09/21-10:07:38.043 3afc Level-0 table #172: 2480 bytes OK
+2025/09/21-10:07:38.054 3afc Delete type=0 #170
+2025/09/21-10:07:38.054 3afc Delete type=3 #169
+2025/09/21-10:08:35.705 7624 Level-0 table #175: started
+2025/09/21-10:08:35.705 7624 Level-0 table #175: 0 bytes OK
+2025/09/21-10:08:35.710 7624 Delete type=0 #173
+2025/09/21-10:08:35.730 7624 Manual compaction at level-0 from '!users!EZ3vOySYOOpikXNq' @ 72057594037927935 : 1 .. '!users!oU4krTCt5nI9btGr' @ 0 : 0; will stop at '!users!oU4krTCt5nI9btGr' @ 142 : 1
+2025/09/21-10:08:35.730 7624 Compacting 3@0 + 0@1 files
+2025/09/21-10:08:35.736 7624 Generated table #176@0: 5 keys, 2480 bytes
+2025/09/21-10:08:35.738 7624 Compacted 3@0 + 0@1 files => 2480 bytes
+2025/09/21-10:08:35.741 7624 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/21-10:08:35.742 7624 Delete type=2 #165
+2025/09/21-10:08:35.742 7624 Delete type=2 #168
+2025/09/21-10:08:35.742 7624 Delete type=2 #172
+2025/09/21-10:08:35.770 7624 Manual compaction at level-0 from '!users!oU4krTCt5nI9btGr' @ 142 : 1 .. '!users!oU4krTCt5nI9btGr' @ 0 : 0; will stop at (end)
